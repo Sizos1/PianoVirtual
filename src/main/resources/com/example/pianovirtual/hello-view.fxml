@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" />
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <bottom> 
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button focusTraversable="false" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="52.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="104.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="156.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="208.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="260.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="312.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="364.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="416.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="468.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="520.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="572.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="624.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="676.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="728.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="780.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="832.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="884.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="936.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="988.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="1040.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="1092.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="52.0" />
+            <Button focusTraversable="false" layoutX="1144.0" mnemonicParsing="false" prefHeight="201.0" prefWidth="56.0" />
+            <Button focusTraversable="false" layoutX="37.0" mnemonicParsing="false" prefHeight="122.0" prefWidth="30.0" style="-fx-background-color: linear-gradient(black, grey);" textFill="WHITE" />
+         </children></AnchorPane>
+   </bottom>
+</BorderPane>
