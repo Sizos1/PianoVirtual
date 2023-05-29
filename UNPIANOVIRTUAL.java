@@ -8,7 +8,7 @@ public class UNpianovirtual {
     public static void main(String[] args){
         System.out.println("abc");
         nota F1 = new nota();
-        F1.setPAR("F1", "key01.mp3");
+        F1.setPAR("F1", "Sonidos\\key01.mp3");
     }
     class nota{
         String id,path;
